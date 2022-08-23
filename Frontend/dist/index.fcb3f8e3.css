@@ -1,0 +1,33 @@
+header {
+  height: 400px;
+  background-image: url("work-search.51c23e78.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 50px;
+}
+
+header h2 {
+  font-size: 1.2rem;
+}
+
+header form {
+  max-width: 400px;
+  margin-top: 50px;
+}
+
+.card {
+  margin: 25px 0;
+}
+
+.loading-element {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  display: none;
+}
+
+.loading-element.loading {
+  display: block;
+}
+
+/*# sourceMappingURL=index.fcb3f8e3.css.map */
